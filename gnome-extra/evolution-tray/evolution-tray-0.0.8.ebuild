@@ -13,5 +13,5 @@ SLOT="0"
 KEYWORDS="~amd64 ~x86"
 IUSE=""
 
-DEPEND="mail-client/evolution"
+DEPEND="<=mail-client/evolution"
 RDEPEND="${DEPEND}"
